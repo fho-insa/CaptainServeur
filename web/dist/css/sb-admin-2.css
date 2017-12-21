@@ -67,6 +67,9 @@ body {
   right: 0;
   left: auto;
 }
+.navbar-top-links ul li a.link.active {
+    background-color: #15e6ee;
+}
 .sidebar .sidebar-nav.navbar-collapse {
   padding-left: 0;
   padding-right: 0;
@@ -78,7 +81,7 @@ body {
   border-bottom: 1px solid #e7e7e7;
 }
 .sidebar ul li a.active {
-  background-color: #eeeeee;
+  background-color: #15e6ee;
 }
 .sidebar .arrow {
   float: right;
@@ -431,4 +434,7 @@ table.dataTable thead .sorting:after {
     border-right-width: 14px;
     border-left-width: 0;
   }
+
 }
+.a
+
